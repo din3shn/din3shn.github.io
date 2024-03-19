@@ -1,14 +1,14 @@
-# Welcome to my Github Profile. 👋
+# Welcome to my Data Analytics Profile. 👋
 
-   ### **Hello,  I'm Dinesh**
+**Hello,  I'm Dinesh** <br>
 I'm a Data Analyst with a passion for turning data into actionable insights. I'm skilled in SQL, Excel, Power BI, and Tableau. Here, you'll find projects utilizing various tools to clean, analyze, and visualize data. Looking for entry-level opporunities that require my skills and would help me learn and grow.
 
   ### 🧰 Skills
 
 - **SQL**: Proficient in writing complex queries for data extraction, manipulation, and analysis.
-    - <sub>(MySQL, SQL Server, PostgreSQL)</sub>
+    - (MySQL, SQL Server, PostgreSQL)
 - **Excel**: Experienced in data cleaning, manipulation, and analysis using advanced Excel functions and pivot tables.
-    - <sub>(Formulas, PivotTables, Data Analysis Tools)</sub>
+    - (Formulas, PivotTables, Data Analysis Tools)
 - **Power BI**: Skilled in creating interactive dashboards and reports to visualize data and derive insights.
 - **Tableau**: Proficient in building visualizations, dashboards, and stories in Tableau.
 
