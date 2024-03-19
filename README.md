@@ -13,11 +13,26 @@ I'm a Data Analyst with a passion for turning data into actionable insights. I'm
 
 **📁 [Portfolio](https://github.com/din3shn/DA_Portfolio_Proj)**
 
-In this repository, you'll find a collection of data analytics projects that I've worked on. These projects showcase my ability to extract, clean, and analyze data to answer business questions and drive decision making. Data used in the projects was gathered from multiple sources like Google, Kaggle etc. Some of the datasets were provided by instructors.
-Feel free to explore my projects and provide feedback. I'm open to collaboration and learning opportunities.
+This portfolio is a compilation of projects that showcase my skills and expertise in data analysis. Each project demonstrates my ability to extract, clean, and analyze data using various tools such as SQL, Excel, Power BI, and Tableau.
 
+The projects cover a wide range of domains and present a comprehensive view of my analytical abilities. They highlight my proficiency in deriving meaningful insights from data and translating these insights into actionable business strategies.
 
+Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. Thank you for visiting my portfolio!
 
+**📈 Projects**
+
+**SQL** 
+[Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
+
+   - This Sales Analysis project involves analyzing a sales dataset using SQL. <br>
+   - The project focuses on understanding the relationships between various entities in the sales domain. <br>
+   - Key operations performed include data manipulation, and analysis using SQL functions. <br>
+   - The goal of the project is to derive meaningful insights from the data that can help in decision-making processes within the sales domain.<br>
+   - The core of the project involves writing complex SQL queries to extract insights from the data. <br> 
+   - These queries make extensive use of SQL functions like SELECT, SUM, COUNT, AVG, MAX, and GROUP BY to perform detailed analysis.<br>
+   - Advanced SQL features are also utilized, such as Common Table Expressions (CTEs), subqueries, and stored procedures, PARTITION BY to handle more complex queries and improve readability.
+     
+The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
 
 <h3 align="center"> 📫 Let's Connect </h3>
 <p align=" center">
