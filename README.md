@@ -34,6 +34,19 @@ Feel free to explore the projects and reach out if you have any questions or fee
      
 The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
 
+### SQL
+[Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
+
+   - This SQL project involves analyzing a comprehensive university database.
+   - The database schema includes various entities representing different aspects of a university’s operations such as students, instructors, departments, and courses etc.
+   - The project primarily focuses on understanding the relationships between these entities.
+   - Key operations performed include data extraction using complex SQL queries, data manipulation, and data analysis.
+   - The queries extensively use SQL features like JOINS, aggregate functions, and the GROUP BY clause.
+   - The goal of the project is to derive meaningful insights from the data that can help in decision-making processes within the educational institution.
+
+This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the versatility of SQL. It provides a comprehensive framework for managing and analyzing data in an educational institution.
+
+
 <h3 align="center"> 📫 Let's Connect </h3>
 <p align=" center">
 <a href="https://github.com/din3shn" target="blank"><img align="center" src="https://github.com/din3shn/din3shn.github.io/assets/160537914/a82d25c4-af44-47b8-9607-8e175ec07291" alt="din3shn" height="30" width="40" /></a>
