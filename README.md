@@ -34,7 +34,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
      
 The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
 
-### SQL
+**SQL**
 [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
    - This SQL project involves analyzing a comprehensive university database.
