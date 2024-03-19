@@ -2,7 +2,7 @@
 
 I'm a Data Analyst with a passion for turning data into actionable insights. I'm skilled in SQL, Excel, Power BI, and Tableau. Here, you'll find projects utilizing various tools to clean, analyze, and visualize data. Looking for entry-level opporunities that require my skills and would help me learn and grow.
 
-##🧰 Skills
+## 🧰 Skills
 
 - **SQL**: Proficient in writing complex queries for data extraction, manipulation, and analysis.
     - (MySQL, SQL Server, PostgreSQL)
@@ -19,9 +19,9 @@ The projects cover a wide range of domains and present a comprehensive view of m
 
 Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. Thank you for visiting my portfolio!
 
-##📈 Projects
+### 📈 Projects
 
-**SQL** 
+## **SQL** 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
    - This Sales Analysis project involves analyzing a sales dataset using SQL. <br>
@@ -34,7 +34,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
      
 The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
 
-**SQL**
+## **SQL**
 [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
    - This SQL project involves analyzing a comprehensive university database.
