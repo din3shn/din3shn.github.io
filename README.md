@@ -11,7 +11,7 @@ I'm a Data Analyst with a passion for turning data into actionable insights. I'm
 - **Power BI**: Skilled in creating interactive dashboards and reports to visualize data and derive insights.
 - **Tableau**: Proficient in building visualizations, dashboards, and stories in Tableau.
 
-**📁 [Portfolio](https://github.com/din3shn/DA_Portfolio_Proj)**
+## 📁 [Portfolio](https://github.com/din3shn/DA_Portfolio_Proj)
 
 This portfolio is a compilation of projects that showcase my skills and expertise in data analysis. Each project demonstrates my ability to extract, clean, and analyze data using various tools such as SQL, Excel, Power BI, and Tableau.
 
@@ -19,9 +19,9 @@ The projects cover a wide range of domains and present a comprehensive view of m
 
 Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. Thank you for visiting my portfolio!
 
-### 📈 Projects
+## 📈 Projects
 
-## **SQL** 
+### **SQL** 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
    - This Sales Analysis project involves analyzing a sales dataset using SQL. <br>
@@ -34,7 +34,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
      
 The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
 
-## **SQL**
+### **SQL**
 [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
    - This SQL project involves analyzing a comprehensive university database.
