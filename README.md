@@ -19,7 +19,7 @@ Looking for entry-level data roles.
 
 ## [ 📈 Projects](https://github.com/din3shn/DA_Portfolio_Proj)
 
-## **SQL** 
+## [**SQL**]
 - [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     - This Sales Analysis project involves analyzing a sales dataset using SQL. 
@@ -59,10 +59,7 @@ Looking for entry-level data roles.
     - This repository contains all the other mini files which demonstrate skills. These are not full projects nor do they have any specific goal.
     - These files are the demonstration of various formulas and other skills I have gained during my learning process.
     - Some Workbooks have multiple sheets which are named according to the operations/ skills/ formulas used in the said sheet.
-    - This showscases the skills which could not be used in the projects I have made because of the nature of the dataset and the types of analysis performed but these files have all the important skills needed for Data Analysis.
-
-
-
+    - This showscases the skills which could not be used in the projects I have made because of the nature of the dataset and the types of analysis performed but these files         have all the important skills needed for Data Analysis.
 
 <h3 align="center"> 📫 Let's Connect </h3>
 <p align=" center">
