@@ -20,6 +20,7 @@ Looking for entry-level data roles.
 ## [ 📈 Projects](https://github.com/din3shn/DA_Portfolio_Proj)
 
 ## **SQL**
+
 - [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     - This Sales Analysis project involves analyzing a sales dataset using SQL. 
