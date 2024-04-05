@@ -4,13 +4,18 @@
 I'm an entry level results-driven data analyst with skill set honed through hands-on experience and dedicated certifications. <br>
 My expertise spans across Excel, SQL, PowerBI, and Tableau, enabling me to extract meaningful insights from complex datasets and drive informed decision-making processes.
 <br><br>
+
 With over two years of experience as a Transaction Risk Investigator at Amazon, I have developed a keen eye for detail and a deep understanding of customer and seller dynamics, particularly in relation to IP rights violations. <br> This role sharpened my analytical skills and instilled in me a commitment to resolving complex issues efficiently and effectively, teaching me the nuances of customer and seller interactions, and the importance of data integrity and security.
 <br><br>
+
 My academic background includes a PGDM in Marketing, which provides me with a solid foundation in understanding consumer behavior and market trends. <br>
-I have complemented this with certifications in SQL, Excel, and PowerBI further enhancing my analytical capabilities and technical proficiency.
+To further solidify my technical expertise, I have acquired certifications in SQL, Excel, and PowerBI—tools that are indispensable in the data analysis field.<br> These certifications are a testament to my commitment to continuous learning and professional development.<br><br>
+
+Now, as I seek new opportunities in the data field, I am eager to leverage my analytical prowess, technical certifications, and rich background in risk investigation to tackle new challenges. <br>
+Looking forward to make impactful contributions, uncover insights that drive strategic business decisions. <br> I want to thrive in dynamic, collaborative environments where innovation is encouraged.<br>
+I am passionate about transforming raw data into a compelling narrative that not only tells a story but also propels organizational success.
 <br><br>
-As I transition into the data field, I am eager to leverage my diverse skill set and experiences to tackle new challenges and make impactful contributions.<br> I am passionate about uncovering actionable insights from data and thrive in dynamic, collaborative environments where innovation is encouraged.
-<br><br>
+
 Let's connect and explore how I can add value to your team!
 
 <br> <br>
