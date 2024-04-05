@@ -1,11 +1,7 @@
 ---
-layout: page
 title: About ME
 subtitle: Hello, I'm Dinesh 👋
 ---
-
-# About ME 
-### Hello, I'm Dinesh.
 
 I'm an entry level results-driven data analyst with skill set honed through hands-on experience and dedicated certifications. <br>
 My expertise spans across Excel, SQL, PowerBI, and Tableau, enabling me to extract meaningful insights from complex datasets and drive informed decision-making processes.
