@@ -21,7 +21,7 @@ Looking for entry-level data roles.
 
 ## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> **SQL**
 
-- [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
+- ### [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     - This Sales Analysis project involves analyzing a sales dataset using SQL. 
     - The project focuses on understanding the relationships between various entities in sales domain. 
@@ -29,7 +29,7 @@ Looking for entry-level data roles.
     - The core of the project involves writing complex SQL queries to extract insights. 
     - This project serves as a practical demonstration of applying SQL skills to a real-world scenario and analyzing large datasets.
      
-- [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
+- ### [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
    - This SQL project involves analyzing a comprehensive university database.
    - The database schema includes various entities representing different aspects of a university’s operations.
@@ -39,7 +39,7 @@ Looking for entry-level data roles.
 
 ## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> **[Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)**
 
-- [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
+- ### [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
 
     - The “Superstore Sales Analysis and Dashboard” project is a comprehensive data visualization project.
     - It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.
@@ -47,7 +47,7 @@ Looking for entry-level data roles.
     - Key Excel features used include PivotTables, charts, slicers to facilitate dynamic data exploration and reporting.
     - This project demonstrates the ability to transform data to drive business decisions.
 
-- [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
+- ### [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
 
     - This project is dedicated to the analysis of Uber rides data. 
     - Focused on cleaning, manipulating, and analyzing the dataset to answer key business questions. 
@@ -55,7 +55,7 @@ Looking for entry-level data roles.
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and the analysis part in different sheets in the workbook.
 
-- [more Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/More_Excel)
+- ### [more Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/More_Excel)
 
     - This repository contains all the other mini files which demonstrate skills. These are not full projects nor do they have any specific goal.
     - These files are the demonstration of various formulas and other skills I have gained during my learning process.
@@ -64,7 +64,7 @@ Looking for entry-level data roles.
 
 ## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> [Power BI](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI)
 
-- [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
+- ### [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
 
    - The “Superstore Sales Dashboard” project is an extensive data visualization initiative.
    - It entails a thorough analysis of a superstore’s sales data to discover trends, patterns, insights.
@@ -74,7 +74,7 @@ Looking for entry-level data roles.
      and slicers to enable data exploration and reporting.
    - This project shows the capability to convert raw data into insights that can guide business decisions.
 
-- [Employee Survey Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/EMP_Survey)
+- ### [Employee Survey Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/EMP_Survey)
 
     - The “Employee Survey Analysis and Dashboard” project is a comprehensive data visualization endeavor.
     - It conducts an in-depth analysis of survey data from employees to identify trends, patterns, and insights.
