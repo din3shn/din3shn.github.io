@@ -15,3 +15,13 @@ Feel free to explore my projects and provide feedback. I'm open to collaboration
     - <sub>(Formulas, PivotTables, Data Analysis Tools)</sub>
 - **Power BI**: Skilled in creating interactive dashboards and reports to visualize data and derive insights.
 - **Tableau**: Proficient in building visualizations, dashboards, and stories in Tableau.
+
+<br>
+<br> <br>
+<h3 align="center"> 📫 Let's Connect </h3>
+<p align=" center">
+<a href="https://github.com/din3shn" target="blank"><img align="center" src="https://github.com/din3shn/din3shn.github.io/assets/160537914/a82d25c4-af44-47b8-9607-8e175ec07291" alt="din3shn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/din3shn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din3shn" height="40" width="30" /></a>
+<a href="https://www.hackerrank.com/din3shn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="din3shn" height="30" width="30" /></a>
+
+</p>
