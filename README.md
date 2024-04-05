@@ -19,7 +19,7 @@ Looking for entry-level data roles.
 
 ## [ 📈 Projects](https://github.com/din3shn/DA_Portfolio_Proj)
 
-## **SQL**
+## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> **SQL**
 
 - [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
@@ -37,7 +37,7 @@ Looking for entry-level data roles.
    - Key operations performed include data extraction using complex SQL queries, data manipulation, and data analysis.
    - The goal of the project is to derive meaningful insights from the data that can help in decision-making within the institution.
 
-## **[Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)**
+## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> **[Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)**
 
 - [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
 
@@ -61,6 +61,30 @@ Looking for entry-level data roles.
     - These files are the demonstration of various formulas and other skills I have gained during my learning process.
     - Some Workbooks have multiple sheets which are named according to the operations/ skills/ formulas used in the said sheet.
     - This showscases the skills which could not be used in the projects I have made because of the nature of the dataset and the types of analysis performed but these files         have all the important skills needed for Data Analysis.
+
+## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> Power BI
+
+- [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
+
+   - The “Superstore Sales Dashboard” project is an extensive data visualization initiative.
+   - It entails a thorough analysis of a superstore’s sales data to discover trends, patterns, insights.
+   - The dashboard offers an interactive platform to investigate various metrics such as 
+     sales, categories, and customer segments.
+   - Key Power BI features utilized include data cleaning, visualizations, 
+     and slicers to enable data exploration and reporting.
+   - This project shows the capability to convert raw data into insights that can guide business decisions.
+
+- [Employee Survey Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/EMP_Survey)
+
+    - The “Employee Survey Analysis and Dashboard” project is a comprehensive data visualization endeavor.
+    - It conducts an in-depth analysis of survey data from employees to identify trends, patterns, and insights.
+    - The dashboard provides an interactive interface for stakeholders to examine metrics such as 
+      employee demographics, programming language preferences, and salary distributions.
+    - Key Power BI features leveraged include Power Query, DAX expressions, interactive 
+      visualizations to support data examination and reporting.
+    - This project showcases the ability to transform survey data into strategic insights 
+      that can influence decisions.
+
 
 <h3 align="center"> 📫 Let's Connect </h3>
 <p align=" center">
