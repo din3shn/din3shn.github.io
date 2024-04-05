@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Welcome to my Data Analytics Portfolio.
 
 This portfolio is a compilation of projects that showcase my skills and expertise in data analysis. Each project demonstrates my ability to extract, clean, and analyze data using various tools such as SQL, Excel, Power BI, and Tableau.
