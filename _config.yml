@@ -1,8 +1,11 @@
+---
+title: Home
+---
 theme: jekyll-theme-slate
 title: Dinesh N
 description: Data Analyst. 
 navbar-links:
-  Resume: "aboutme"
+  About Me: "aboutme"
   Projects:
     - SQL: "https://beautifuljekyll.com"
     - Excel: "https://www.markdowntutorial.com/"
