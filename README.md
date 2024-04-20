@@ -21,15 +21,26 @@ Looking for entry-level data roles.
 
 ## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> **SQL**
 
-- ### [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
-    - This Sales Analysis project involves analyzing a sales dataset using SQL. 
-    - The project focuses on understanding the relationships between various entities in sales domain. 
-    - Key operations performed include data manipulation, and analysis using SQL functions. 
-    - The core of the project involves writing complex SQL queries to extract insights. 
-    - This project serves as a practical demonstration of applying SQL skills to a real-world scenario and analyzing large datasets.
+### [Adventure Works Data Analysis Project Summary](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
+
+Analyze the Adventure Works dataset focusing on the Internet Sales schema.
+Used transactional data to gain insights into customer behavior and product performance.
+
+- Tools Used:
+  - SQL Server Management Studio (SSMS) for data cleansing and transformation tasks.
+  - Power BI for visualization and analysis.
+- Data Cleansing and Manipulation:
+  - SQL queries in SSMS to clean and standardize the dataset.
+  - Extracted cleaned data into CSV files for easy import into Power BI.
+- Power BI Visualization:
+  - Used Power Query within Power BI for additional data transformations and manipulations.
+  - Imported CSV data into Power BI to create interactive visualizations.
+- Key Findings:
+  - Uncovered sales trends, customer demographics, and product insights through visualizations.
+  - Identified top-selling products, sales performance over time, and customer purchasing patterns etc.
      
-- ### [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
+### [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
    - This SQL project involves analyzing a comprehensive university database.
    - The database schema includes various entities representing different aspects of a university’s operations.
