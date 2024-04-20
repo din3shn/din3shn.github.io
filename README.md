@@ -66,13 +66,6 @@ Used transactional data to gain insights into customer behavior and product perf
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and the analysis part in different sheets in the workbook.
 
-- ### [more Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/More_Excel)
-
-    - This repository contains all the other mini files which demonstrate skills. These are not full projects nor do they have any specific goal.
-    - These files are the demonstration of various formulas and other skills I have gained during my learning process.
-    - Some Workbooks have multiple sheets which are named according to the operations/ skills/ formulas used in the said sheet.
-    - This showscases the skills which could not be used in the projects I have made because of the nature of the dataset and the types of analysis performed but these files         have all the important skills needed for Data Analysis.
-
 ## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> [Power BI](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI)
 
 - ### [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
