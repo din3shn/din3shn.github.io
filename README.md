@@ -22,7 +22,7 @@ Looking for entry-level data roles.
 ### [Adventure Works Data Analysis Project Summary](https://medium.com/@din3shn/analyzing-online-sales-with-sql-and-power-bi-6ef460e0b98b)
 [Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
 
-Analyze the Adventure Works dataset focusing on the Internet Sales schema.
+Analyzed the Adventure Works dataset focusing on the Internet Sales schema.
 Used transactional data to gain insights into customer behavior and product performance.
 
 - Tools Used:
