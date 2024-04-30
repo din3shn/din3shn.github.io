@@ -19,10 +19,8 @@ Looking for entry-level data roles.
 
 ## [ 📈 Projects](https://github.com/din3shn/DA_Portfolio_Proj)
 
-## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> **SQL**
-
-
 ### [Adventure Works Data Analysis Project Summary](https://medium.com/@din3shn/analyzing-online-sales-with-sql-and-power-bi-6ef460e0b98b)
+[Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
 
 Analyze the Adventure Works dataset focusing on the Internet Sales schema.
 Used transactional data to gain insights into customer behavior and product performance.
@@ -39,8 +37,18 @@ Used transactional data to gain insights into customer behavior and product perf
 - Key Findings:
   - Uncovered sales trends, customer demographics, and product insights through visualizations.
   - Identified top-selling products, sales performance over time, and customer purchasing patterns etc.
-     
-### [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
+ 
+### [Bank Loan Data Analysis - Excel](https://medium.com/@din3shn/distinguishing-good-loans-from-bad-loans-fc687f1b3a7b)
+[Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Bank_Loan_Analysis)
+
+- Comprehensive Loan Performance Analysis: Utilized advanced data analytics to differentiate between ‘Good Loans’ and ‘Bad Loans’ within a bank’s loan portfolio.
+- Data Cleaning : Executed thorough data cleaning processes to ensure the integrity and accuracy of the loan dataset for analysis.
+- Pivot Tables: Employed pivot tables to extract key insights, revealing trends and patterns in loan distribution, approval rates, and default rates.
+- Visualization: Created intuitive maps, line charts, and donut charts to visually represent the geographicaldistribution of loans and the status of loan repayments over time.
+- Strategic KPI Development: Defined and analyzed Key Performance Indicators (KPIs) to assess the health of the loan portfolio and guide strategic decision-making.
+- Actionable Recommendations: Provided recommendations for enhanced risk assessment and dynamic loan portfolio management based on data-driven findings.
+
+## [<img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> Exploratory Data Analysis - SQL](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project)
 
    - This SQL project involves analyzing a comprehensive university database.
    - The database schema includes various entities representing different aspects of a university’s operations.
