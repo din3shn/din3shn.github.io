@@ -48,6 +48,18 @@ Used transactional data to gain insights into customer behavior and product perf
 - Strategic KPI Development: Defined and analyzed Key Performance Indicators (KPIs) to assess the health of the loan portfolio and guide strategic decision-making.
 - Actionable Recommendations: Provided recommendations for enhanced risk assessment and dynamic loan portfolio management based on data-driven findings.
 
+### [AtliQ Hospitality Data Analysis Report - Power BI](https://medium.com/@din3shn/dissecting-the-performance-of-a-leading-hotel-chain-1a1330f3b514)
+[Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Hospitality%20Data%20Analysis%20Report)
+
+- Data Collection: The analysis uses a dataset from Q2–2022, comprising dimensions (DIM) and continuous data (FACT) across five files.
+- Power BI Transformation: Data from Excel is imported into Power BI, where it undergoes transformation and modeling using Power Query.
+- Dashboard Development: A Power BI dashboard is created, providing insights into bookings, revenue, and property performance.
+- Booking Insights: The chain recorded 135K bookings with a high cancellation rate of 24.83%, leading to significant refunds.
+- Property Performance: 25 properties with a total capacity of 233K room nights show an occupancy ratio of 57.9%.
+- Revenue Analysis: Mumbai, Bangalore, and Hyderabad are top revenue contributors, with premium rooms driving the majority of earnings.
+- Cancellation and Refund Impact: High cancellation and refund ratios are identified as key areas affecting net revenue.
+- Occupancy Variance: Significant differences in occupancy rates across cities, with Bangalore and Delhi leading.
+  
 ## [<img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> Exploratory Data Analysis - SQL](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project)
 
    - This SQL project involves analyzing a comprehensive university database.
